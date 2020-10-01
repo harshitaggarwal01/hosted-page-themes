@@ -12,7 +12,7 @@ html {
 }
 body {
 	color: #444;
-  background: linear-gradient(135deg,#29d,#a1e2fb);
+  background: linear-gradient(135deg,#16e0bd,#a1e2fb);
   font-family: Helvetica, Arial, sans-serif;
 }
 
@@ -38,7 +38,7 @@ p{
 .mar-20{margin-top:25px;margin-bottom:10px;}
 .box{
 	border:10px solid white;
-	background:#29d;
+	background:#16e0bd;
 	padding:0px 20px;
 	float: left;
 }
@@ -47,7 +47,7 @@ p{
 .ma_h1 {
     position: relative;
     margin: 20px 0px;
-    background: #29d;
+    background: #16e0bd;
     display: inline-block;
     z-index: 2;
     padding-right: 15px;
@@ -311,7 +311,7 @@ dl {
   position: relative;
   margin: 0;
   text-align: center;
-  background: #29d;
+  background: #16e0bd;
   color: white;
   font-size: 14px;
   font-family: Helvetica,Arial,sans-serif
@@ -363,7 +363,7 @@ dl {
 }
 
 .tabPanel-widget > div {
-  background: #29d;
+  background:#16e0bd;
   border: 10px solid white;
   padding: 0 20px;
 }
@@ -381,7 +381,7 @@ dl {
 }
 .tabPanel-widget input[name="tabs"]:checked + h2 {
   background: white ;
-  color: #29d;
+  color: #16e0bd;
 }
 
 @media (max-width:991px){
@@ -510,7 +510,7 @@ label[for=loginradius-registration-confirmpassword],
 label[for=loginradius-forgotpassword-emailid],
 .lr-form-login-subnote
 {
-  background: #29d;
+  background: #16e0bd;
     padding: 15px 20px;
     float: left;
     list-style: none;
@@ -836,7 +836,7 @@ float:right;
         width: 16px;
         height: 16px;
         margin: 0 5px;
-        background: #29d;
+        background:#16e0bd;
         -webkit-animation: shapes 1s ease-in-out infinite;
         animation: shapes 1s ease-in-out infinite;
         -webkit-transform: translatey(-5px);
